@@ -1,0 +1,2 @@
+# a-gsuplementos
+pensamento computacional
