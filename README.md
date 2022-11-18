@@ -1,2 +1,1 @@
-# a-gsuplementos
-pensamento computacional
+https://github.com/adrielhalter/a-gsuplementos.git
